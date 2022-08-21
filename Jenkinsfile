@@ -1,4 +1,4 @@
-pipline {
+pipeline {
 ageny any
   stages{
     stage ('Build'){
